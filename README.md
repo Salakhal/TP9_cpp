@@ -7,6 +7,7 @@
 
  ## exercice3
  <img width="597" height="198" alt="image" src="https://github.com/user-attachments/assets/bbe00325-232d-4cc3-8b56-a1647eadcd38" />
- ## exercice 5
+ ## exercice 4
 
- ![Uploading image.png…]()
+ 
+<img width="641" height="388" alt="image" src="https://github.com/user-attachments/assets/0409564d-b6e0-49ab-89c5-f18b32009bf7" />
