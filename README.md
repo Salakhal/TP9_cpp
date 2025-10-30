@@ -95,7 +95,7 @@ ID : 1
 Login : salma
 Gestion du système avec droits : admin
 Modération du contenu avec niveau : 5
-===================================
+
 
 ```
  
